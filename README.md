@@ -3,7 +3,7 @@ Empty IG
 This is an empty IG
 <br> </br>
 ###
-### Publication
+### Publication 
 This ImplementationGuide is published in the following locations:
 
 Continuous Build: __http://build.fhir.org/ig/openhie/fhir-ig-empty/branches/main/index.html__  
